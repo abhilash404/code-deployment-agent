@@ -3,6 +3,6 @@ uvicorn
 pydantic
 python-dotenv
 httpx
-google-generativeai
+google-genai
 requests
 PyGithub
