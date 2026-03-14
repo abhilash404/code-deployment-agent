@@ -5,4 +5,4 @@ python-dotenv
 httpx
 google-genai
 requests
-PyGithub
+PyGithubgroq
